@@ -16,7 +16,7 @@ Simple password generator that I made during my free time with Winforms & Guna U
 
 ## Notes
 
-- Recommended to use the newest `Visual Studio` & `Winforms` versions.
+- Recommended to use the newest `Visual Studio`, `Guna UI` & `Winforms` versions.
 
 ## Source code installation
 
