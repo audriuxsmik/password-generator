@@ -18,6 +18,7 @@ namespace Password_Generator
         public Form1()
         {
             InitializeComponent();
+            this.MaximizeBox = false;
             trackbar.Minimum = 5;
             trackbar.Maximum = 50;
             trackbar.Value = 10;
