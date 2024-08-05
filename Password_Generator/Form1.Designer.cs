@@ -285,7 +285,7 @@
             this.guna2HtmlLabel3.Name = "guna2HtmlLabel3";
             this.guna2HtmlLabel3.Size = new System.Drawing.Size(29, 24);
             this.guna2HtmlLabel3.TabIndex = 17;
-            this.guna2HtmlLabel3.Text = "v1.0";
+            this.guna2HtmlLabel3.Text = "v1.1";
             // 
             // Form1
             // 
